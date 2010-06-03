@@ -1,0 +1,1 @@
+Create a MySQL DB named appt and run the sql script in it
